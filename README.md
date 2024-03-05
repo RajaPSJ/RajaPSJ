@@ -2,7 +2,7 @@
 - 👀 I’m interested as Java Developer
 - 🌱 I’m a Quick Learner
 - 💞️ I’m looking for Job Opportunities
-- 📫 reach me LinkedIn Profile
+- 📫 reach me LinkedIn: 
 linkedin.com/in/raja-psj-183825273
 
 
