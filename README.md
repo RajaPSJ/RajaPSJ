@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajaPSJ
-- 👀 I’m Java Developer
+- 👀 I’m Software Developer
 - 🌱 I’m a Quick Learner
 - 💞️ Currently I’m looking for Job Opportunities
 
